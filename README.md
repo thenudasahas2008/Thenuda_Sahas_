@@ -42,7 +42,7 @@ I'm passionate about learning cybersecurity concepts, exploring network security
 - **Portfolio:** [www.thenudasahas.site](https://www.thenudasahas.site/)
 - **GitHub:** [@thenudasahas2008](https://github.com/thenudasahas2008)
 - **Facebook:** [Thenuda Sahas](https://www.facebook.com/thenudasahas)
-
+- **Instagram:** [thenuda_sahas_](https://www.instagram.com/thenuda_sahas_/)
 ---
 
 <div align="center">
