@@ -1,8 +1,8 @@
  <div align="center">
 
-# Hi, I'm Thenuda Sahas 👋
+# 👋 Hi, I'm Thenuda Sahas! 🧑‍💻
 
-### Cybersecurity Student | Information Security | Software Development
+### 🔐 Cybersecurity Student | 🌐 Information Security | 💻 Software Development
 
 <p>
   <a href="https://www.thenudasahas.site/"><strong>🌐 Visit My Portfolio</strong></a>
