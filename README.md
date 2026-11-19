@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,24&height=220&section=header&text=THENUDA%20SAHAS&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Researcher%20%E2%80%A2%20DFIR%20Analyst%20%E2%80%A2%20Student%20Portfolio&descAlignY=58&descAlign=50" width="100%" alt="Thenuda Sahas Header" />
+<img src="assets/header.svg" width="100%" alt="Thenuda Sahas Header" />
 
 [![Website](https://img.shields.io/badge/Official_Portfolio-thenudasahas.site-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thenudasahas.site/)
 [![Degree](https://img.shields.io/badge/Pearson_BTEC_HND-Computing_(Cybersecurity)-58A6FF?style=for-the-badge&logo=edx&logoColor=white)](https://thenudasahas.site/)
